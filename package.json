@@ -1,0 +1,15 @@
+{
+  "name": "share-proto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@mm:pingo-microservice/pingo-share-proto.git"
+  },
+  "author": "Mesa SOT",
+  "license": "MIT"
+}
